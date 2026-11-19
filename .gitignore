@@ -219,3 +219,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 projects/germany-dev-survey/Data/
+Projects/germany-dev-survey/Data/
+.vscode/
