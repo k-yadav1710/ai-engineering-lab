@@ -1,4 +1,4 @@
-# ai-engineering-lab
+
 # AI Engineering Lab
 
 My learning repository on the way to AI Engineering: from Python basics to
